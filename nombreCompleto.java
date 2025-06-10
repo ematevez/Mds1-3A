@@ -1,7 +1,7 @@
-public class NombreCompleto {
+public class nombreCompleto {
     public static void main(String[] args) {
         String nombre = "Juan";
         String apellido = "Pérez";
-        System.out.println("Nombre completo: nombre apellido"); // ERROR: no concatena
+        System.out.println(nombre + " " + apellido); // ERROR: no concatena
     }
 }

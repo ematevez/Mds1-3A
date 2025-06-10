@@ -6,3 +6,4 @@ def calcular_edad(fecha_nacimiento):
     return hoy.year - nacimiento.year  # ERROR: no se controla si ya cumplió años
 
 print(calcular_edad("2005-10-20"))
+#Mañana lo arregglo

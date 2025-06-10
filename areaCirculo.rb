@@ -1,5 +1,5 @@
 def area_circulo(radio)
-  return 2  * radio # ERROR: esto es el perímetro, no el área
+  return 2 * math.pi  * radio * radio
 end
 
 puts area_circulo(3)

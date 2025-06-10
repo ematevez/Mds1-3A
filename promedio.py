@@ -4,4 +4,4 @@ def promedio(lista):
 print(promedio([]))
 
 
-//esto es solo un prueba
+#esto es solo un prueba
